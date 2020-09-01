@@ -9,7 +9,7 @@ int main()
         std::cout << "You are an adult";
     }
     else {
-        std::cout << "I don't remember what should go here";
+        std::cout << "You are a teenager";
     }
 }
 
